@@ -1,0 +1,5 @@
+include ':Module_Login'
+include ':module_home'
+include ':CommonSDK'
+include ':app'
+rootProject.name = "JPMVVM"
