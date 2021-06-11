@@ -8,4 +8,6 @@ import com.jiaopeng.commonsdk.base.BaseViewModel
  * @author JiaoPeng by 4/30/21
  */
 class MainViewModel :BaseViewModel() {
+
+
 }
